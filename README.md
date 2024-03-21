@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Aryan Kapri
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m interested in Data Science, Machine Learning, and Artificial Intelligence
 - 🌱 I’m currently learning Computer Science and Engineering 
 - 📫 How to reach me  - aryankapri88@gmail.com
